@@ -1,5 +1,5 @@
 # pyro-popular_posts-plugin
-plugin for PyroCMS. Show popular most popular blog posts
+plugin for PyroCMS. Show most popular blog posts
 
 * Version 1.0
 * Compatible with PyroCMS v2.x
